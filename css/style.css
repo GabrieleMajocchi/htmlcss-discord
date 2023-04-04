@@ -123,6 +123,7 @@ ul{
 .lpurp-but{
     background-color: #8EA1E1;
     color: white;
+    font-size: 20px;
 }
 .big-pic p{
     margin: 25px;
@@ -170,7 +171,7 @@ ul{
 
 
 .bg-grey{
-    background-color: #D3D3D3;
+    background-color:  #F6F6F6;
 }
 
 .big-info{
