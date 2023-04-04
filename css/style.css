@@ -35,12 +35,17 @@ header img{
     text-align: center;
     transition-duration: 0.4s;
     cursor: pointer;
-    border-radius: 20px;
+    border-radius: 30px;
     border: none;
 }
 
 .small-but{
     padding: 8px 16px;
+}
+
+.black-but{
+    color: white;
+    background-color: #1D1F1B
 }
 
 header button{
@@ -89,9 +94,6 @@ ul{
 .flx-center{
     justify-content: center;
     align-items: center;
-}
-
-.showoff{
 }
 
 .big-pic{
