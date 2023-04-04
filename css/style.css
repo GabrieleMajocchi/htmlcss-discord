@@ -57,21 +57,8 @@ header button{
 
 nav{
     width: 60vw;
-    margin-bottom: 15px;
     justify-content: space-between;
     color: white;
-}
-
-.center{
-    text-align: center;
-}
-
-.right{
-    text-align: right;
-}
-
-.left{
-    text-align: left;
 }
 
 .dash-black{
@@ -104,10 +91,23 @@ ul{
 }
 
 .big-pic{
-    background-color: #EE82EE;
+    color: white;
+    text-align: center;
     width: 40%;
-    height: 80%;
 }
+
+.big-pic h1{
+    font-size: 50px;
+}
+
+.big-pic p{
+    margin: 25px;
+}
+
+.big-pic .first{
+    margin-right: 20px;
+}
+
 
 .bg-blu{
     background-color: #1E90FF;
