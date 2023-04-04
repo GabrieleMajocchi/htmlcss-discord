@@ -76,7 +76,8 @@ ul{
 }
 
 .showoff{
-    background-color: #00008B;
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
 }
 
 .big-pic{
