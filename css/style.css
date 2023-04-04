@@ -190,7 +190,6 @@ ul{
 
 .long-pic{
     width: 20%;
-    background-color: #F08080;
 }
 
 .long-info{
@@ -237,4 +236,28 @@ ul{
     font-size: 30px;
     line-height: 0.4;
     margin-bottom: 30px;
+}
+
+.long-pic h3{
+    font-size: 30px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+.language img{
+    width: 25px;
+    margin: 6px;
+}
+
+.lpurp{
+    color: #8EA1E1;
+}
+
+.white{
+    color: white;
+}
+
+.social img{
+    width: 20px;
+    margin: 10px;
 }
