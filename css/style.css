@@ -93,7 +93,6 @@ ul{
 
 .flx-center{
     justify-content: center;
-    align-items: center;
 }
 
 .big-pic{
@@ -103,6 +102,10 @@ ul{
 
 .text-center{
     text-align: center;
+}
+
+.pic h2, .pic p{
+    align-items: flex-start;
 }
 
 .flx-col{
