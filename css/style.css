@@ -86,8 +86,8 @@ nav{
     width: 60%;
 }
 
-nav li, nav p{
-    padding: 6px;
+nav li{
+    padding: 0px 20px;
 }
 
 ul{
