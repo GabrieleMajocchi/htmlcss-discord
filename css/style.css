@@ -95,6 +95,10 @@ ul{
     justify-content: center;
 }
 
+.ali-center{
+    align-items: center;
+}
+
 .big-pic{
     color: white;
     width: 40%;
