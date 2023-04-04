@@ -98,8 +98,15 @@ ul{
 
 .big-pic{
     color: white;
-    text-align: center;
     width: 40%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.flx-col{
+    flex-direction: column;
 }
 
 .big-pic h1{
