@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Cabin variant0", Tofu;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 
 .mar-side{
@@ -37,7 +39,9 @@ header img{
     border: none;
 }
 
-
+header button{
+    font-size: 15px;
+}
 
 .box-height{
     height: 50vh;
@@ -55,6 +59,7 @@ nav{
     width: 60vw;
     margin-bottom: 15px;
     justify-content: space-between;
+    color: white;
 }
 
 .center{
