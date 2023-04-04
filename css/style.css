@@ -57,7 +57,7 @@ header button{
 }
 
 .box-height2{
-    height: 100vh;
+    height: 110vh;
 }
 
 .cont-height{
@@ -220,4 +220,20 @@ ul{
     padding: 6px;
     font-size: 20px;
     background-color: #FFB6C1;
+}
+
+
+.big-info h2{
+    font-size: 40px;
+}
+
+.big-info p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.big-info h3{
+    font-size: 30px;
+    line-height: 0.4;
+    margin-bottom: 30px;
 }
