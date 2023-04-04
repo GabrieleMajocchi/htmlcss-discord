@@ -138,6 +138,10 @@ ul{
     background-color: #1E90FF;
 }
 
+.big-info img:nth-of-type(1){
+    width: 100%;
+}
+
 .bg-pink{
     background-color: #FFC0CB;
 }
@@ -170,7 +174,6 @@ ul{
 }
 
 .big-info{
-    background-color: #228B22;
     height: 87vh;
     width: 60%;
 }
