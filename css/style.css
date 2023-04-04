@@ -184,7 +184,7 @@ ul{
 }
 
 .long-pic, .long-info{
-    margin-top: 100px;
+    margin-top: 80px;
     margin-bottom: 20px;
 }
 
@@ -212,7 +212,7 @@ ul{
 }
 
 .blu-box{
-    height: 8vh;
+    height: 10vh;
     width: 60%;
     justify-content: space-between;
 }
@@ -268,4 +268,8 @@ ul{
 
 .long-info{
     justify-content: space-between;
+}
+
+.blu-box{
+    border-top: 1px solid #8EA1E1;
 }
