@@ -20,6 +20,11 @@ header{
     padding-top: 15px;
 }
 
+header img{
+    max-width: 100%;
+    height: auto;
+}
+
 .box-height{
     height: 50vh;
 }
@@ -34,7 +39,6 @@ header{
 
 nav{
     width: 60vw;
-    background-color: #DAA520;
     margin-bottom: 15px;
 }
 
