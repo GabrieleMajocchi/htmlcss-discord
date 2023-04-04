@@ -184,8 +184,12 @@ ul{
 }
 
 .long-pic, .long-info{
-    height: 46.75vh;
+    margin-top: 100px;
     margin-bottom: 20px;
+}
+
+.upper-footer{
+    align-items: flex-start;
 }
 
 .long-pic{
@@ -194,7 +198,6 @@ ul{
 
 .long-info{
     width: 40%;
-    background-color: #20B2AA;
 }
 
 .text{
@@ -260,4 +263,16 @@ ul{
 .social img{
     width: 20px;
     margin: 10px;
+}
+
+.long-info div{
+    color: white;
+}
+
+.long-info ul li{
+    padding: 5px;
+}
+
+.long-info{
+    justify-content: space-between;
 }
