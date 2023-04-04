@@ -131,13 +131,28 @@ ul{
     background-color: #FFC0CB;
 }
 
+.article{
+    flex-wrap: wrap;
+}
+
 .info{
     width: 35%;
 }
 
 .pic{
     width: 25%;
+    padding: 0px 30px;
+    }
+
+.pic h2{
+    font-size: 40px;
 }
+
+.pic p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
 
 .bg-grey{
     background-color: #D3D3D3;
