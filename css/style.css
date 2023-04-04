@@ -15,7 +15,8 @@
 }
 
 header{
-    background-color: #ADD8E6;
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
     padding-top: 15px;
 }
 
@@ -76,8 +77,6 @@ ul{
 }
 
 .showoff{
-    background-image: url(../img/jumbo.png);
-    background-size: cover;
 }
 
 .big-pic{
